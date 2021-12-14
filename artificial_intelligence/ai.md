@@ -1,8 +1,15 @@
 Welcome to Monstarlab Japan Technology Documentation.
 
 # AI tasks workflow
+To tackle AI, engineers start with 
+ds millions of results on Google, with varying degrees of technical and relevant information.
 
-![](assets/lifecycle.PNG)
+ 
+
+So, what is AI to engineers?
+ 
+Most of the focus on AI leans heavily on the AI model, which drives engineers to quickly dive into the modeling aspect of AI. After a few starter projects, engineers quickly learn that AI is not just modeling, but rather a complete set of steps that includes data preparation, modeling, simulation and test, and deployment.
+![](assets/industries.png) |  ![](assets/lifecycle.PNG)
 
 # ML AI team skill map
 
