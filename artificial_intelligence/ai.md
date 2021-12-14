@@ -1,7 +1,7 @@
 Welcome to Monstarlab Japan Technology Documentation.
 
 <p align ="center">
-<img src={{ sitePrefix }}/assets/industries.png>
+<img src=./assets/industries.png>
 </p>
 
 # AI tasks workflow
@@ -9,7 +9,11 @@ Welcome to Monstarlab Japan Technology Documentation.
 The rise of data and AI driven companies amplifies the impact of digital transformation industries in the modern business environment, and the features that AI provides can help business leaders make better decisions over the long term.
 AI powered data driven approach can unlock the worth of any customer data to empower their analytic tool and create powerful solutions.
 To tackle AI, engineers must start with a complete set of steps that includes business considerations, data preparation, modeling, simulation and test, and deployment.
-![](assets/lifecycle.PNG)
+
+<p align ="center">
+<img src=./assets/lifecycle.PNG>
+</p>
+
 This lifecycle is directly related to the following section that explains how to solve technical challenges.
 
 # ML AI team skill map
