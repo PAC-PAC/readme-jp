@@ -18,7 +18,7 @@ In following can be seen the specialist skill ladder at MonstarLab.
 | SS Lvl 7     | Same as above                                        | Data pipeline using cloud services (redshift, s3, airflow)                    |                                                    |                                                                                                          | Latest SoA implementation from scratch                                                                                                                                                                        |                             ---                            |                                     ---                                     | Model speed up & performance tradeoff                                                                                 |
 
 
-## AI engineer upscaling ladder
+# AI engineer upscaling ladder
 
 ## Purpose
 In order to upgrade CS ranking, an AI upscaling ladder is proposed.
@@ -32,7 +32,7 @@ Weekly meetings will also be conducted to discuss interactively the content of t
 An arrangement will be made with the candidate manager in order to optimize work assignments during the training period. Training is not expected to take more than 50% of the candidate's schedule.
 
 
-## Artificial intelligence certifications:
+# Artificial intelligence certifications:
 
 In order to professionalize ML AI team members, online certification classes are considered
 Target is to learn new skills based on an online course. 
