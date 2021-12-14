@@ -2,6 +2,8 @@ Welcome to Monstarlab Japan Technology Documentation.
 
 # AI tasks workflow
 
+![Alt text](assets/lifecycle.png?raw=true "Title")
+
 # ML AI team skill map
 
 At MonstarLab, we are currently seeing an increase in the requests for AI projects as they impact on every industry and business. In this context, AI capable engineers will play an important role for developing MonstarLab digital transformations activities. Based on skills, demonstrated capacities in previous projects and the official MonstarLab consulting & specialist skills ladder, employees will be given a ranking.
