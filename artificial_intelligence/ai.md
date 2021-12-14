@@ -1,5 +1,9 @@
 Welcome to Monstarlab Japan Technology Documentation.
-![](assets/industries.png)
+
+<p align ="center">
+<img src={{ sitePrefix }}/assets/industries.png>
+</p>
+
 # AI tasks workflow
 
 The rise of data and AI driven companies amplifies the impact of digital transformation industries in the modern business environment, and the features that AI provides can help business leaders make better decisions over the long term.
