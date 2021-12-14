@@ -1,3 +1,5 @@
+# AI in industries
+
 Artificial intelligence can ingest a combination of data from sensors, machines, and people and then apply it to algorithms designed to optimize operations in several sectors such as transportation, education, manufacturing, online shopping, communication, sports, media, healthcare, politics and government, banking and finance, aerospace, and so much more.
 
 <p align ="center">
