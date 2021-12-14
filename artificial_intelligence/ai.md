@@ -1,15 +1,12 @@
 Welcome to Monstarlab Japan Technology Documentation.
-
+![](assets/industries.png)
 # AI tasks workflow
-To tackle AI, engineers start with 
-ds millions of results on Google, with varying degrees of technical and relevant information.
 
- 
-
-So, what is AI to engineers?
- 
-Most of the focus on AI leans heavily on the AI model, which drives engineers to quickly dive into the modeling aspect of AI. After a few starter projects, engineers quickly learn that AI is not just modeling, but rather a complete set of steps that includes data preparation, modeling, simulation and test, and deployment.
-![](assets/industries.png) |  ![](assets/lifecycle.PNG)
+The rise of data and AI driven companies amplifies the impact of digital transformation industries in the modern business environment, and the features that AI provides can help business leaders make better decisions over the long term.
+AI powered data driven approach can unlock the worth of any customer data to empower their analytic tool and create powerful solutions.
+To tackle AI, engineers must start with a complete set of steps that includes business considerations, data preparation, modeling, simulation and test, and deployment.
+![](assets/lifecycle.PNG)
+This lifecycle is directly related to the following section that explains how to solve technical challenges.
 
 # ML AI team skill map
 
