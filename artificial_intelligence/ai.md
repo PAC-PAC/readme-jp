@@ -2,7 +2,7 @@ Welcome to Monstarlab Japan Technology Documentation.
 
 # AI tasks workflow
 
-![Alt text](assets/lifecycle.png?raw=true "Title")
+![](./assets/lifecycle.png?raw=true "Ai lifecycle")
 
 # ML AI team skill map
 
