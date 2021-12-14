@@ -8,6 +8,7 @@ Welcome to Monstarlab Japan Technology Documentation.
 
 The rise of data and AI driven companies amplifies the impact of digital transformation industries in the modern business environment, and the features that AI provides can help business leaders make better decisions over the long term.
 AI powered data driven approach can unlock the worth of any customer data to empower their analytic tool and create powerful solutions.
+
 To tackle AI, engineers must start with a complete set of steps that includes business considerations, data preparation, modeling, simulation and test, and deployment.
 
 <p align ="center">
@@ -18,7 +19,8 @@ This lifecycle is directly related to the following section that explains how to
 
 # ML AI team skill map
 
-At MonstarLab, we are currently seeing an increase in the requests for AI projects as they impact on every industry and business. In this context, AI capable engineers will play an important role for developing MonstarLab digital transformations activities. Based on skills, demonstrated capacities in previous projects and the official MonstarLab consulting & specialist skills ladder, employees will be given a ranking.
+At MonstarLab, we are currently seeing an increase in the requests for AI projects as they impact on every industry and business. In this context, AI capable engineers will play an important role for developing MonstarLab digital transformations activities. 
+Based on skills, demonstrated capacities in previous projects and the official MonstarLab consulting & specialist skills ladder, employees will be given a ranking.
 In following can be seen the specialist skill ladder at MonstarLab.
 
 |              | Business                                             | Data                                                                          | ML Ops                                             | CV                                                                                                       | ML                                                                                                                                                                                                            | DL                                                         | NLP                                                                         | Other                                                                                                                 |
