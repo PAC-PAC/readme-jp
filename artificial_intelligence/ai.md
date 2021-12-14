@@ -1,4 +1,4 @@
-Welcome to Monstarlab Japan Technology Documentation.
+Artificial intelligence can ingest a combination of data from sensors, machines, and people and then apply it to algorithms designed to optimize operations in several sectors such as transportation, education, manufacturing, online shopping, communication, sports, media, healthcare, politics and government, banking and finance, aerospace, and so much more.
 
 <p align ="center">
 <img src=./assets/industries.png>
@@ -20,8 +20,8 @@ This lifecycle is directly related to the following section that explains how to
 # ML AI team skill map
 
 At MonstarLab, we are currently seeing an increase in the requests for AI projects as they impact on every industry and business. In this context, AI capable engineers will play an important role for developing MonstarLab digital transformations activities. 
-Based on skills, demonstrated capacities in previous projects and the official MonstarLab consulting & specialist skills ladder, employees will be given a ranking.
-In following can be seen the specialist skill ladder at MonstarLab.
+
+Based on skills, demonstrated capacities in previous projects and the official MonstarLab consulting & specialist skills ladder, employees will be given a ranking. The specialist skill ladder at MonstarLab can be seen in following.
 
 |              | Business                                             | Data                                                                          | ML Ops                                             | CV                                                                                                       | ML                                                                                                                                                                                                            | DL                                                         | NLP                                                                         | Other                                                                                                                 |
 |--------------|------------------------------------------------------|-------------------------------------------------------------------------------|----------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
@@ -35,6 +35,8 @@ In following can be seen the specialist skill ladder at MonstarLab.
 
 
 # AI engineer upscaling ladder
+
+Like with other longer-term initiatives, uscaling current MonstarLab engineers to tackle artificial Intelligence projects.
 
 ## Purpose
 In order to upgrade CS ranking, an AI upscaling ladder is proposed.
