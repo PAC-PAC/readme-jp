@@ -1,3 +1,6 @@
+![Alt text here](./assets/roadmap_test.svg)
+
+
 # AI in industries
 
 Artificial intelligence can ingest a combination of data from sensors, machines, and people and then apply it to algorithms designed to optimize operations in several sectors such as transportation, education, manufacturing, online shopping, communication, sports, media, healthcare, politics and government, banking and finance, aerospace, and so much more.
@@ -19,11 +22,11 @@ To tackle AI, engineers must start with a complete set of steps that includes bu
 
 This lifecycle is directly related to the following section that explains how to solve technical challenges.
 
-# ML AI team skill map
+# MonstarLab AI skill map
 
 At MonstarLab, we are currently seeing an increase in the requests for AI projects as they impact on every industry and business. In this context, AI capable engineers will play an important role for developing MonstarLab digital transformations activities. 
 
-Based on skills, demonstrated capacities in previous projects and the official MonstarLab consulting & specialist skills ladder, employees will be given a ranking. The specialist skill ladder at MonstarLab can be seen in following.
+Based on skills, demonstrated capacities in previous projects and the official MonstarLab consulting & specialist skills ladder, employees will be given a ranking. The consulting skill ladder at MonstarLab can be seen in following.
 
 |              | Business                                             | Data                                                                          | ML Ops                                             | CV                                                                                                       | ML                                                                                                                                                                                                            | DL                                                         | NLP                                                                         | Other                                                                                                                 |
 |--------------|------------------------------------------------------|-------------------------------------------------------------------------------|----------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
