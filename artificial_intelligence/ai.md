@@ -1,4 +1,4 @@
-![Alt text here](./assets/roadmap_test.svg)
+![Alt text here](./assets/test.svg)
 
 
 # AI in industries
