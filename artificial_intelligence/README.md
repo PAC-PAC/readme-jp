@@ -1,4 +1,6 @@
-![](assets/draw.io.svg)
+<!-- ![](assets/draw.io.svg) -->
+[![Foo](https://opencv.org/)](assets/draw.io.svg)
+
 
 # AI in industries
 
