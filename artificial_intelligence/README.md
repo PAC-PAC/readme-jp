@@ -1,5 +1,4 @@
-![](assets/test.svg)
-![](assets/lifecycle.PNG)
+![](assets/draw.io.svg)
 
 # AI in industries
 
