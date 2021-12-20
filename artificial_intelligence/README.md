@@ -1,5 +1,5 @@
 <!-- ![](assets/draw.io.svg) -->
-[![Foo](https://opencv.org/)](assets/draw.io.svg)
+<a href="http://google.com.au/" rel="some text">![](assets/draw.io.svg)
 
 
 # AI in industries
