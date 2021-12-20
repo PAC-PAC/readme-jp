@@ -1,5 +1,5 @@
-![Alt text here](./assets/test.svg)
-
+![](assets/test.svg)
+![](assets/lifecycle.PNG)
 
 # AI in industries
 
